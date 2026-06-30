@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Repair System",
+  "description": "A mobile repair shop management system to track client repairs, device faults, payments, and statuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
